@@ -1,0 +1,5 @@
+.DS_Store
+
+rclone/cache/*
+rclone/config/rclone.conf
+rclone/logs/*
